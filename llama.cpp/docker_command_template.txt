@@ -1,0 +1,1 @@
+-p 7860:7860 -p 5000:5000 -p 22:22  -p 5005:5005 -e MODEL_URL='{{model_url}}' -e UI_ARGS_WITHOUT_MODEL='{{llama_args}}'
